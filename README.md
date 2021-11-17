@@ -8,3 +8,5 @@ Requirements:
     Python 3.x,
     TKinter,
     Pygame
+
+Press spacebar to start visualization.
