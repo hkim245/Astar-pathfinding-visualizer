@@ -18,7 +18,7 @@ except:
     from tkinter import messagebox
     import os
 
-screen = pygame.display.set_mode((800, 800))
+screen = pygame.display.set_mode((700, 700), pygame.RESIZABLE)
 
 class spot:
     def __init__(self, x, y):
