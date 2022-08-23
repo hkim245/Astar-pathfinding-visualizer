@@ -1,4 +1,4 @@
-# astar-pathfinding-visualizer
+# A*-pathfinding-visualizer
 
 Run command to start program: python findPath.py
 
